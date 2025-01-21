@@ -33,3 +33,20 @@ Calculate the difference in the total quantity sold between the selected month a
    - Visualized sales data across different store locations for better understanding and comparison.  
    - Incorporated month-over-month (MoM) difference metrics based on the selected month from the slicer.  
    - Highlighted the MoM increase or decrease in sales for each store location to uncover trends and performance changes.  
+
+4. **Daily Sales Analysis with Average Line**  
+   - Created a line chart to display daily sales for the selected month.  
+   - Incorporated an average line to represent the average daily sales on the same chart.  
+   - Highlighted bars that exceed or fall below the average sales, making it easier to identify exceptional sales days.  
+
+5. **Sales Analysis by Product Category**  
+   - Analyzed sales performance across various product categories.  
+   - Provided insights into which categories contributed the most to overall sales, enabling a clear understanding of category-wise performance.  
+
+6. **Top 10 Products by Sales**  
+   - Identified and displayed the top 10 products based on sales volume.  
+   - Designed visuals to help users quickly identify the best-performing products in terms of sales.  
+
+7. **Sales Analysis by Days and Hours**  
+   - Utilized a heat map to visualize sales patterns segmented by days and hours.  
+   - Integrated interactive tooltips to display detailed metrics, such as Sales, Orders, and Quantity, when hovering over specific day-hour intersections.  
