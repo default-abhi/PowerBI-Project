@@ -11,7 +11,7 @@ Calculate the total number of orders for each respective month.
 Determine the month-on-month increase or decrease in the number of orders.
 Calculate the difference in the number of orders between the selected month and the previous month.
 
-3. Total Quantity Sold Analysis:
+3.Total Quantity Sold Analysis:
 Calculate the total quantity sold for each respective month.
 Determine the month-on-month increase or decrease in the total quantity sold.
 Calculate the difference in the total quantity sold between the selected month and the previous month.
